@@ -11,6 +11,7 @@ Sistema de captura de señales FM y reconocimiento de voz para la asistencia de 
 2. Interfaz gráfica con la conversación en tiempo real.
 
 **Stack de Software:**
+
   Backend:
     1. GNU Radio y Python
     2. Python + wav2vec2 + Transformers
