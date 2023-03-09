@@ -13,8 +13,11 @@ Sistema de captura de señales FM y reconocimiento de voz para la asistencia de 
 **Stack de Software:**
 
   Backend:
+  
     1. GNU Radio y Python
+    
     2. Python + wav2vec2 + Transformers
   
   Fronted:
+  
     1. Python + Flask + HTML + CSS + JS
