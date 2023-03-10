@@ -1,4 +1,4 @@
-# SDR-Proyect
+# SDR-Project
 Sistema de captura de señales FM y reconocimiento de voz para la asistencia de personas con problemas auditivos
 
 1. Captura de una señal de FM por medio del uso de la tarjeta LimeSDR y GNU Radio.
